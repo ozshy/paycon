@@ -1,6 +1,8 @@
 # paycon
 R-code and data for a paper entitled: "Consumer Use of Multiple Payment Methods."
 
+Review of Industrial Organization. Available at: https://doi.org/10.1007/s11151-020-09803-w
+
 Readme file for R-codes for a paper entitled:
 “Consumer Use of Multiple Payment Methods”
 By Oz Shy
